@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/hashicorp/terraform/helper/schema"
 	"github.com/nttcom/eclcloud/ecl/storage/v1/virtualstorages"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 )
 
 func dataSourceStorageVirtualStorageV1() *schema.Resource {
