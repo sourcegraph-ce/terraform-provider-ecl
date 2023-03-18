@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"io"
 	"io/ioutil"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net/http"
 	"strings"
 	"sync"

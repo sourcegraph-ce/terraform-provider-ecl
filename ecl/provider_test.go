@@ -3,7 +3,7 @@ package ecl
 import (
 	"fmt"
 	"io/ioutil"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"strings"
 	"testing"

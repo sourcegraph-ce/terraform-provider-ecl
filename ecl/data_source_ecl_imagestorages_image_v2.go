@@ -2,7 +2,7 @@ package ecl
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"sort"
 
 	"github.com/nttcom/eclcloud/ecl/imagestorage/v2/images"
