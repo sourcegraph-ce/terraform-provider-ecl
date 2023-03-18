@@ -10,7 +10,7 @@ import (
 
 	"github.com/terraform-providers/terraform-provider-ecl/ecl/clientconfig"
 
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net/http"
 	"os"
 

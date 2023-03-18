@@ -2,7 +2,7 @@ package ecl
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/nttcom/eclcloud/ecl/baremetal/v2/availabilityzones"
 

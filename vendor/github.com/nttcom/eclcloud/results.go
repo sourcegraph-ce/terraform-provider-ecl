@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 
-	// "log"
-	"log"
+	// log "github.com/sourcegraph-ce/logrus"
+	log "github.com/sourcegraph-ce/logrus"
 	"net/http"
 	"reflect"
 	"strconv"
