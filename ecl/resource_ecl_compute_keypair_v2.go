@@ -2,7 +2,7 @@ package ecl
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/hashicorp/terraform/helper/schema"
 	"github.com/nttcom/eclcloud/ecl/compute/v2/extensions/keypairs"
